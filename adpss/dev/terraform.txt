@@ -1,0 +1,16 @@
+   46  terraform plan
+   47  cd ../..
+   48  cd sts
+   49  ls
+   50  ./exclude.sh
+   51  ./exclude.sh
+   52  export AWS_PROFILE=Impaq
+   53  aws sts get-caller-identity
+   54  aws sts get-session-token --serial-number arn:aws:iam::631203585119:mfa/lchinedu@panth.com --token-code 009895
+   55  aws sts get-session-token --serial-number arn:aws:iam::631203585119:mfa/lchinedu@panth.com --token-code 484801 --profile Impaq
+   56  ./envars.sh
+   57  brew install jq
+   58  ./envars.sh
+   59  ./envars.sh
+   60  cd ..
+   61  cd adpss/dev
